@@ -1,9 +1,12 @@
 import React from 'react';
+import Navbar from './Navbar';
+
+import "../Styles/main.css"
 
 function Main() {
   return (
     <div className="container">
-      <h1>Testing</h1>
+      <Navbar />
     </div>
   );
 }
