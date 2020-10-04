@@ -1,4 +1,4 @@
-# Ivyhacks-RealNews
+# Ivyhacks-GetTheFacts
 
 ## Current Tasks:
 - Create Navbar
