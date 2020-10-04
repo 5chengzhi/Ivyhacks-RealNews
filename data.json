@@ -1,227 +1,284 @@
 {
-  "articles": [
-    {
-      "Title": "Analysis: The moment a lack of White House credibility becomes an instant crisis",
-      "Source": { "id": "cnn", "name": "CNN" },
-      "Bias": -8.65,
-      "Author": "Analysis by Chris Cillizza, CNN Editor-at-large",
-      "Description": "Americans awoke Friday morning to the news that President Donald Trump and first lady Melania Trump had tested positive for Covid-19, a deeply unsettling development sure to drive anxiety in every corner of the country about the state of our national fight ag\u2026",
-      "URL": "https://www.cnn.com/2020/10/02/politics/mark-meadows-white-house-donald-trump-coronavirus/index.html",
-      "LinkToImage": "https://cdn.cnn.com/cnnnext/dam/assets/201002105212-02-mark-meadows-1002-super-tease.jpg",
-      "Date": "2020-10-02T18:14:54Z",
-      "Content": "THE POINT -- NOW ON YOUTUBE! \r\nIn each episode of his weekly YouTube show, Chris Cillizza will delve a little deeper into the surreal world of politics. Click to subscribe!"
-    },
-    {
-      "Title": "Analysis: No one has *any* idea what happens next",
-      "Source": { "id": "cnn", "name": "CNN" },
-      "Bias": -8.65,
-      "Author": "Analysis by Chris Cillizza, CNN Editor-at-large",
-      "Description": "President Donald Trump has Covid-19\u00a0and is heading to\u00a0Walter Reed National Military Medical Center, according to the White House press secretary, who says he will remain there for several days.",
-      "URL": "https://www.cnn.com/2020/10/02/politics/trump-coronavirus-what-happens-next-unknown/index.html",
-      "LinkToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200406181617-trump-hands-up-super-tease.jpg",
-      "Date": "2020-10-02T22:31:41Z",
-      "Content": "THE POINT -- NOW ON YOUTUBE! \r\nIn each episode of his weekly YouTube show, Chris Cillizza will delve a little deeper into the surreal world of politics. Click to subscribe!"
-    },
-    {
-      "Title": "Opinion: Even the President of the United States isn't safe",
-      "Source": { "id": "cnn", "name": "CNN" },
-      "Bias": -8.65,
-      "Author": "Julian Zelizer, CNN Political Analyst",
-      "Description": "In a presidential election with more shocking moments than any other, the news of October 2 has rattled the nation and the world. President Donald Trump and First Lady Melania Trump have been diagnosed with Covid-19. With only a few weeks left until Election \u2026",
-      "URL": "https://www.cnn.com/2020/10/02/opinions/even-president-isnt-safe-covid-zelizer/index.html",
-      "LinkToImage": "https://cdn.cnn.com/cnnnext/dam/assets/201002090934-trump-leavng-air-force-one-super-tease.jpg",
-      "Date": "2020-10-02T14:40:03Z",
-      "Content": "Julian Zelizer, a CNN political analyst, is a professor of history and public affairs at Princeton University and author of the book, \"Burning Down the House: Newt Gingrich, the Fall of a Speaker, an\u2026 [+4445 chars]"
-    },
-    {
-      "Title": "The Note: A campaign on pause, with new questions about Trump\u2019s own behavior",
-      "Source": { "id": "abc-news", "name": "ABC News" },
-      "Bias": -3.64,
-      "Author": "Rick Klein, MaryAlice Parks",
-      "Description": "There is no roadmap for what happens next.",
-      "URL": "https://abcnews.go.com/Politics/note-campaign-pause-questions-trumps-behavior/story?id=73355275",
-      "LinkToImage": "https://s.abcnews.com/images/Politics/trump-melania-gty-er-201002_1601615972859_hpMain_16x9_992.jpg",
-      "Date": "2020-10-02T12:47:36Z",
-      "Content": "The TAKE with Rick Klein\r\nThis marks a moment bigger than politics: The 74-year-old president of the United States has tested positive for a disease that has killed more than 207,000 Americans.\r\nTher\u2026 [+8774 chars]"
-    },
-    {
-      "Title": "Total cost of 2020 election projected to reach record-smashing $11 billion",
-      "Source": { "id": "abc-news", "name": "ABC News" },
-      "Bias": -3.64,
-      "Author": "Soo Rin Kim",
-      "Description": "Total cost of 2020 election projected to near record-smashing $11 billion",
-      "URL": "https://abcnews.go.com/Politics/total-cost-2020-election-projected-reach-record-smashing/story?id=73366139",
-      "LinkToImage": "https://s.abcnews.com/images/Politics/trump-rally-ap-jt-201001_1601568950018_hpMain_16x9_992.jpg",
-      "Date": "2020-10-01T18:07:08Z",
-      "Content": "The total cost of the 2020 election cycle, one of the most contentious in U.S. history, will likely shatter previous records.\r\nAccording to an early estimate from the Center for Responsive Politics, \u2026 [+4002 chars]"
-    },
-    {
-      "Title": "The diagnosis amounts to the most serious known health threat to a sitting American president in decades",
-      "Source": { "id": "cnn", "name": "CNN" },
-      "Bias": -8.65,
-      "Author": "Kevin Liptak, CNN",
-      "Description": "A country already unnerved by a devastating health catastrophe and a turbulent political season faced fresh upheaval Friday as Americans awoke to news President Donald Trump had contracted coronavirus.",
-      "URL": "https://www.cnn.com/2020/10/02/politics/president-donald-trump-coronavirus-positive-test/index.html",
-      "LinkToImage": "https://cdn.cnn.com/cnnnext/dam/assets/201002021411-trump-1001-white-house-super-tease.jpg",
-      "Date": "2020-10-02T09:29:52Z",
-      "Content": "(CNN)A country already unnerved by a devastating health catastrophe and a turbulent political season faced fresh upheaval Friday as Americans awoke to news President Donald Trump had contracted coron\u2026 [+6568 chars]"
-    },
-    {
-      "Title": "Analysis: Trump's diagnosis guarantees this election will be about everything he has tried to avoid",
-      "Source": { "id": "cnn", "name": "CNN" },
-      "Bias": -8.65,
-      "Author": "Analysis by Chris Cillizza, CNN Editor-at-large",
-      "Description": "President Donald Trump has spent months trying to move the country's focus away from the coronavirus. He's purposely downplayed the threat it poses to Americans, pushed unscientific treatments and ensured the country that a vaccine would be arriving any day. \u2026",
-      "URL": "https://www.cnn.com/2020/10/02/politics/donald-trump-coronavirus-covid-19-2020-election/index.html",
-      "LinkToImage": "https://cdn.cnn.com/cnnnext/dam/assets/201002090934-trump-leavng-air-force-one-super-tease.jpg",
-      "Date": "2020-10-02T14:43:34Z",
-      "Content": "(CNN)President Donald Trump has spent months trying to move the country's focus away from the coronavirus. He's purposely downplayed the threat it poses to Americans, pushed unscientific treatments a\u2026 [+6780 chars]"
-    },
-    {
-      "Title": "Trump set to defy task force recommendations with Wisconsin rallies",
-      "Source": { "id": "cnn", "name": "CNN" },
-      "Bias": -8.65,
-      "Author": "Betsy Klein, CNN",
-      "Description": "President Donald Trump is expected to again defy recommendations from his own administration's coronavirus task force and guidance from local officials Saturday, traveling to Wisconsin for campaign rallies at airplane hangars in La Crosse and Green Bay.",
-      "URL": "https://www.cnn.com/2020/10/01/politics/trump-campaign-rallies-wisconsin/index.html",
-      "LinkToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200923142155-02-trump-rally-pa-0922-super-tease.jpg",
-      "Date": "2020-10-01T18:34:28Z",
-      "Content": "(CNN)President Donald Trump is expected to again defy recommendations from his own administration's coronavirus task force and guidance from local officials Saturday, traveling to Wisconsin for campa\u2026 [+6447 chars]"
-    },
-    {
-      "Title": "Former President Jimmy Carter celebrates 96th birthday",
-      "Source": { "id": "abc-news", "name": "ABC News" },
-      "Bias": -3.64,
-      "Author": "BILL BARROW Associated Press",
-      "Description": "Carter has lived longer than any other U.S. president.",
-      "URL": "https://abcnews.go.com/Politics/wireStory/president-jimmy-carter-celebrates-96th-birthday-73357843",
-      "LinkToImage": "https://s.abcnews.com/images/Politics/WireAP_cfef7ab023f44a5b81abf019aa40271c_16x9_992.jpg",
-      "Date": "2020-10-01T09:32:42Z",
-      "Content": "ATLANTA -- Former President Jimmy Carter marks his 96th birthday Thursday, the latest milestone for the longest lived of the 44 men to hold the highest American office.\r\nCarter planned to celebrate a\u2026 [+4654 chars]"
-    },
-    {
-      "Title": "Facebook, Twitter flounder in QAnon crackdown",
-      "Source": { "id": "abc-news", "name": "ABC News" },
-      "Bias": -3.64,
-      "Author": "AMANDA SEITZ and BARBARA ORTUTAY Associated Press",
-      "Description": "Facebook and Twitter promised to stop encouraging the growth of the baseless conspiracy theory QAnon, which fashions President Donald Trump as a secret warrior against a supposed child-trafficking ring run by celebrities and government officials",
-      "URL": "https://abcnews.go.com/Politics/wireStory/facebook-twitter-flounder-qanon-crackdown-73370661",
-      "LinkToImage": "https://s.abcnews.com/images/Business/WireAP_2781e6e1fbf94e99a16bd00056dcc38c_16x9_992.jpg",
-      "Date": "2020-10-01T19:12:42Z",
-      "Content": "CHICAGO -- Facebook and Twitter promised to stop encouraging the growth of the baseless conspiracy theory QAnon, which fashions President Donald Trump as a secret warrior against a supposed child-tra\u2026 [+6270 chars]"
-    },
-    {
-      "Title": "Let's stop telling celebrities to stay out of politics",
-      "Source": { "id": "cnn", "name": "CNN" },
-      "Bias": -8.65,
-      "Author": "Analysis by Lisa Respers France, CNN",
-      "Description": "When someone complains that celebrities should stay out of politics, Lisa Respers France wonders if they have forgotten the United States has had a former actor -- and now an ex-reality star -- serve as President. Dwayne \"The Rock\" Johnson spoke out this week.",
-      "URL": "https://www.cnn.com/2020/10/01/entertainment/dwayne-johnson-political-celebrities-plc/index.html",
-      "LinkToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200929161253-20200929-celebrity-in-politics-v2-super-tease.jpg",
-      "Date": "2020-10-01T22:08:08Z",
-      "Content": null
-    },
-    {
-      "Title": "S&P 500 Closes Lower After Trump Tests Positive for Coronavirus - The Wall Street Journal",
-      "Source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
-      },
-      "Bias": 5.3,
-      "Author": "Michael Wursthorn, Caitlin Ostroff",
-      "Description": "<ol><li>S&P 500 Closes Lower After Trump Tests Positive for Coronavirus\u00a0\u00a0The Wall Street Journal\r\n</li><li>Pelosi: Trump diagnosis 'tragic,' hopefully leads to 'saner approach' to pandemic\u00a0\u00a0Fox News\r\n</li><li>The Health Status Of The Presidential Line Of Succ\u2026",
-      "URL": "https://www.wsj.com/articles/global-stock-markets-dow-update-10-02-2020-11601619637",
-      "LinkToImage": "https://images.wsj.net/im-239729/social",
-      "Date": "2020-10-02T20:05:00Z",
-      "Content": "U.S. stocks fell Friday after President Trump said he and the first lady tested positive for coronavirus, but all three major indexes held on to notch gains for the week. \r\nThe overnight development \u2026 [+251 chars]"
-    },
-    {
-      "Title": "Political spending in presidential and congressional races projected to hit nearly $11 billion, shattering records",
-      "Source": { "id": "cnn", "name": "CNN" },
-      "Bias": -8.65,
-      "Author": "Fredreka Schouten, CNN",
-      "Description": "This year's political spending to elect a president and Congress is on pace to hit nearly $11 billion, smashing all previous records, according to a new estimate by the nonpartisan Center for Responsive Politics.",
-      "URL": "https://www.cnn.com/2020/10/01/politics/political-spending-record/index.html",
-      "LinkToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200928173850-04-biden-trump-split-super-tease.jpg",
-      "Date": "2020-10-01T18:00:26Z",
-      "Content": "(CNN)This year's political spending to elect a president and Congress is on pace to hit nearly $11 billion, smashing all previous records, according to a new estimate by the nonpartisan Center for Re\u2026 [+3357 chars]"
-    },
-    {
-      "Title": "Behind in Wisconsin, Trump plans to visit battleground amid COVID-19 surge",
-      "Source": { "id": "abc-news", "name": "ABC News" },
-      "Bias": -3.64,
-      "Author": "Cheyenne Haslett, Soo Rin Kim",
-      "Description": "The surge also comes as 1.2 million Wisconsinites have already started the voting process by mail, momentum which Trump aims to capitalize on when he visits Saturday.",
-      "URL": "https://abcnews.go.com/Politics/wisconsin-trump-plans-visit-battleground-amid-covid-19/story?id=73351622",
-      "LinkToImage": "https://s.abcnews.com/images/Politics/trump-oshkosh-2-rt-ps-200817_1597701590369_hpMain_4_16x9_992.jpg",
-      "Date": "2020-10-01T10:04:50Z",
-      "Content": "President Donald Trump will hold more large-scale campaign rallies in Wisconsin this weekend as coronavirus cases and hospitalization rage across the battleground state, making the clear decision to \u2026 [+8888 chars]"
-    },
-    {
-      "Title": "Kansas could do something in November it hasn't done in almost 100 years",
-      "Source": { "id": "cnn", "name": "CNN" },
-      "Bias": -8.65,
-      "Author": "Analysis by Chris Cillizza, CNN Editor-at-large",
-      "Description": "The last time Kansas sent a Democrat to the US Senate, the kidnapping of the Lindbergh baby was all over the news. \"Tarzan the Ape Man\" was a hit movie. And Franklin Delano Roosevelt won his first term, crushing incumbent Herbert Hoover.",
-      "URL": "https://www.cnn.com/2020/10/01/politics/kansas-barbara-bollier-roger-marshall-senate-race/index.html",
-      "LinkToImage": "https://cdn.cnn.com/cnnnext/dam/assets/201001115604-kansas-sign-restricted-super-tease.jpg",
-      "Date": "2020-10-01T16:38:15Z",
-      "Content": "THE POINT -- NOW ON YOUTUBE! \r\nIn each episode of his weekly YouTube show, Chris Cillizza will delve a little deeper into the surreal world of politics. Click to subscribe!"
-    },
-    {
-      "Title": "No, polls don't show Donald Trump won the debate 'big'",
-      "Source": { "id": "cnn", "name": "CNN" },
-      "Bias": -8.65,
-      "Author": "Analysis by Chris Cillizza, CNN Editor-at-large",
-      "Description": "On Thursday morning, Donald Trump tweeted this: \"I won the debate big, based on compilation of polls etc. Thank you!\"",
-      "URL": "https://www.cnn.com/2020/10/01/politics/donald-trump-debate-polls-joe-biden/index.html",
-      "LinkToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200930001049-43-debate-clevelant-0929-super-tease.jpg",
-      "Date": "2020-10-01T17:22:04Z",
-      "Content": "THE POINT -- NOW ON YOUTUBE! \r\nIn each episode of his weekly YouTube show, Chris Cillizza will delve a little deeper into the surreal world of politics. Click to subscribe!"
-    },
-    {
-      "Title": "This is NOT how you denounce White supremacists",
-      "Source": { "id": "cnn", "name": "CNN" },
-      "Bias": -8.65,
-      "Author": "Analysis by Chris Cillizza, CNN Editor-at-large",
-      "Description": "Less than 48 hours removed from President Donald Trump's debate dodge on whether he would condemn White supremacists and militia groups, his White House is trying to rewrite history.",
-      "URL": "https://www.cnn.com/2020/10/01/politics/white-house-trump-denounce-white-supremacists/index.html",
-      "LinkToImage": "https://cdn.cnn.com/cnnnext/dam/assets/201001144943-01-mcenany-briefing-1001-super-tease.jpg",
-      "Date": "2020-10-01T22:31:00Z",
-      "Content": "THE POINT -- NOW ON YOUTUBE! \r\nIn each episode of his weekly YouTube show, Chris Cillizza will delve a little deeper into the surreal world of politics. Click to subscribe!"
-    },
-    {
-      "Title": "Trump's call for freelance poll-watchers summons a dark history",
-      "Source": { "id": "cnn", "name": "CNN" },
-      "Bias": -8.65,
-      "Author": "Opinion by Nicole Hemmer",
-      "Description": "President Donald Trump's debate call for poll-watching and a proclamation from the governor of Texas are efforts to use \"ballot security\" as a pretext for voter intimidation, argues Nicole Hemmer, and these developments hearken back to grim history.",
-      "URL": "https://www.cnn.com/2020/10/02/opinions/poll-watching-voter-intimidation-1981-consent-decree-hemmer/index.html",
-      "LinkToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200929215946-30-debate-cleveland-trump-0929-super-tease.jpg",
-      "Date": "2020-10-02T14:30:35Z",
-      "Content": "Nicole Hemmer is an associate research scholar at Columbia University with the Obama Presidency Oral History Project and the author of \"Messengers of the Right: Conservative Media and the Transformat\u2026 [+5710 chars]"
-    },
-    {
-      "Title": "Trump is trying to divide the left. He's actually uniting it behind Biden.",
-      "Source": { "id": "cnn", "name": "CNN" },
-      "Bias": -8.65,
-      "Author": "Gregory Krieg, CNN",
-      "Description": "When Joe Biden said on Tuesday night that he did not support the Green New Deal, President Donald Trump lit up.",
-      "URL": "https://www.cnn.com/2020/10/01/politics/trump-biden-uniting-the-left-election/index.html",
-      "LinkToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200929212326-18-debate-cleveland-0929-super-tease.jpg",
-      "Date": "2020-10-01T21:41:43Z",
-      "Content": "(CNN)When Joe Biden said on Tuesday night that he did not support the Green New Deal, President Donald Trump lit up.\r\n\"Oh, you don't? Oh, well, that's a big statement,\" Trump interjected. \"You just l\u2026 [+8880 chars]"
-    },
-    {
-      "Title": "Fox News paid Kimberly Guilfoyle's former assistant $4 million after sexual harassment accusations, New Yorker reports",
-      "Source": { "id": "cnn", "name": "CNN" },
-      "Bias": -8.65,
-      "Author": "Oliver Darcy, CNN Business",
-      "Description": "Fox News paid the former assistant to ex-host Kimberly Guilfoyle upward of $4 million to avoid going to trial after the employee wrote a 2018 draft complaint detailing allegations of sexual harassment against her, The New Yorker reported Thursday, citing two \u2026",
-      "URL": "https://www.cnn.com/2020/10/01/media/kimberly-guilfoyle-fox-allegations/index.html",
-      "LinkToImage": "https://cdn.cnn.com/cnnnext/dam/assets/201001201721-kimberly-guilfoyle-0929-super-tease.jpg",
-      "Date": "2020-10-02T02:31:14Z",
-      "Content": "New York (CNN Business)Fox News paid the former assistant to ex-host Kimberly Guilfoyle upward of $4 million to avoid going to trial after the employee wrote a 2018 draft complaint detailing allegati\u2026 [+2267 chars]"
-    }
-  ]
+    "articles": [
+        {
+            "Title": "Billy Hallowell: Trump deserves compassion — not death wishes — after being stricken with coronavirus",
+            "Source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "Bias": 22.23,
+            "Author": "Billy Hallowell",
+            "Description": "President Trump’s hospitalization Friday night with COVID-19 has prompted get-well wishes by both Democrats and Republicans — but also hateful messages by some of the president’s opponents on social media expressing wishes for his death.",
+            "URL": "https://www.foxnews.com/opinion/trump-hospitalized-prayer-billy-hallowell",
+            "LinkToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/trump-image.jpg",
+            "Date": "2020-10-03T23:35:17Z",
+            "Content": "President Trump’s hospitalization Friday night with COVID-19 has prompted get-well wishes by both Democrats and Republicans — but also hateful messages by some of the president’s opponents on social … [+5629 chars]"
+        },
+        {
+            "Title": "Trump's politics of sickness boomerangs back",
+            "Source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "Bias": -8.65,
+            "Author": "Opinion by John Avlon",
+            "Description": "After President Donald Trump was hospitalized for Covid-19 last Friday, John Avlon writes that Trump's tactics to downplay the gruesome pandemic is backfiring at him and the Republican Party.",
+            "URL": "https://www.cnn.com/2020/10/03/opinions/trump-politics-of-sickness-covid-avlon/index.html",
+            "LinkToImage": "https://cdn.cnn.com/cnnnext/dam/assets/201003170540-trumpmask-avlon-oped-super-tease.jpg",
+            "Date": "2020-10-03T22:51:39Z",
+            "Content": "John Avlon is a CNN senior political analyst. The views expressed in this commentary belong to the author. View more opinions at CNN.\r\n (CNN)Books will be written about 2020. They will say that this … [+5873 chars]"
+        },
+        {
+            "Title": "History replete with secrecy, lies...",
+            "Source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "Bias": -1.2,
+            "Author": "Deb Riechmann",
+            "Description": "History replete with secrecy, lies...\r\n\n \n \n \n (Top headline, 10th story, link)\r\n\n \r\n\n \r\n\n \n Related stories:A White House Long in Denial Confronts Reality...\r\nVirus spread with culture of invincibility...\r\nAn abundance of risk, not caution, before Trump's di…",
+            "URL": "https://apnews.com/article/virus-outbreak-donald-trump-pandemics-health-archive-d20364b00e23dfad474fe0e9288fce83",
+            "LinkToImage": "https://storage.googleapis.com/afs-prod/media/493f41691590468098957175598501b3/3000.jpeg",
+            "Date": "2020-10-03T21:22:36Z",
+            "Content": "WASHINGTON (AP) Throughout American history, an uncomfortable truth has been evident: Presidents have lied about their health.\r\nIn some cases, the issues were minor, in others quite grave. And someti… [+6554 chars]"
+        },
+        {
+            "Title": "Pence ordered the closure of US borders against CDC's wishes: report",
+            "Source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "Bias": -1.44,
+            "Author": "Celine Castronuovo",
+            "Description": "Vice President Pence in March reportedly ordered the director for the Centers for Disease Control and Prevention (CDC) to use its emergency powers to close the U.S. borders, despite top scientists saying there was n...",
+            "URL": "https://thehill.com/homenews/administration/519485-pence-ordered-the-closure-of-borders-against-cdcs-wishes",
+            "LinkToImage": "https://thehill.com/sites/default/files/pencemike_07162020getty.jpg",
+            "Date": "2020-10-03T19:06:40Z",
+            "Content": "Vice President Pence in March reportedly ordered the director for the Centers for Disease Control and Prevention (CDC) to use its emergency powers to close the U.S. borders, despite top scientists sa… [+3616 chars]"
+        },
+        {
+            "Title": "The White House medical team isn't giving straight answers on Trump's health",
+            "Source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "Bias": -8.65,
+            "Author": "Chris Cillizza, CNN Editor-at-large",
+            "Description": "The White House physician, surrounded by a group of other doctors, emerged just before noon on Saturday from Walter Reed medical center to give a sunny update on President Donald Trump's condition after his positive Covid-19 diagnosis.",
+            "URL": "https://www.cnn.com/2020/10/03/politics/white-house-sean-conley-trump-coronavirus/index.html",
+            "LinkToImage": "https://cdn.cnn.com/cnnnext/dam/assets/201003115347-04-sean-conley-press-briefing-1003---screengrab-super-tease.jpg",
+            "Date": "2020-10-03T18:38:22Z",
+            "Content": "THE POINT -- NOW ON YOUTUBE! \r\nIn each episode of his weekly YouTube show, Chris Cillizza will delve a little deeper into the surreal world of politics. Click to subscribe!"
+        },
+        {
+            "Title": "Israeli navy prepares for arrival of new upgraded warships - The Associated Press",
+            "Source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "Bias": -1.2,
+            "Author": "Ariel Schalit",
+            "Description": "<ol><li>Israeli navy prepares for arrival of new upgraded warships  The Associated Press\r\n</li><li>Israeli minister quits government over COVID-19 curbs on protests  Yahoo News\r\n</li><li>The pandemic is an era of protests — and protest restrictions  The Washi…",
+            "URL": "https://apnews.com/article/navy-israel-jerusalem-lebanon-archive-d7ce5b5073143e913cd096c36f8e98a1",
+            "LinkToImage": "https://storage.googleapis.com/afs-prod/media/7c62ae42cbb048d0bfd03b6304670e1c/3000.jpeg",
+            "Date": "2020-10-03T17:00:08Z",
+            "Content": "ABOARD THE INS LAHAV (AP) After a coronavirus-related delay, Israels navy is preparing for the long-awaited arrival of its next generation of missile boats giving it a powerful new tool to defend its… [+3815 chars]"
+        },
+        {
+            "Title": "Indianapolis post office being named for late Sen. Lugar",
+            "Source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "Bias": -1.2,
+            "Author": "",
+            "Description": "INDIANAPOLIS (AP) — A downtown Indianapolis post office will be named for former U.S. Sen. Richard Lugar as President Donald Trump has given final approval for the honor.",
+            "URL": "https://apnews.com/d3c085cb7c6cb71524a3fb24f9530b1a",
+            "LinkToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/custom/image/00f1ee32-f2d0-11e6-9926-f7249dbfe53a.jpg",
+            "Date": "2020-10-03T15:45:11Z",
+            "Content": "INDIANAPOLIS (AP) A downtown Indianapolis post office will be named for former U.S. Sen. Richard Lugar as President Donald Trump has given final approval for the honor.\r\nAll nine of Indianas House me… [+970 chars]"
+        },
+        {
+            "Title": "How the pandemic and politics gave us a golden age of conspiracy theories",
+            "Source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "Bias": -8.65,
+            "Author": "AJ Willingham, CNN",
+            "Description": "From QAnon to anti-vaxxers, conspiracy theories are thriving in 2020. And there's a reason it's all happening right now.",
+            "URL": "https://www.cnn.com/2020/10/03/us/conspiracy-theories-why-origins-pandemic-politics-trnd/index.html",
+            "LinkToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200929192200-20200929-psychology-conspiracy-theories-super-tease.jpg",
+            "Date": "2020-10-03T15:23:20Z",
+            "Content": "(CNN)Conspiracy theories have always been a part of the American story. But while believers used to dwell at the fringes of polite society, proponents of some outlandish and deeply harmful theories h… [+9702 chars]"
+        },
+        {
+            "Title": "Democrats would destroy Supreme Court with scheme to pack justices",
+            "Source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "Bias": -1.44,
+            "Author": "Jonathan Turley, opinion contributor",
+            "Description": "Joe Biden has not buried this move if he wins.",
+            "URL": "https://thehill.com/opinion/judiciary/519461-democrats-would-destroy-supreme-court-with-scheme-to-pack-justices",
+            "LinkToImage": "https://thehill.com/sites/default/files/blogs/supremecourt461628090.jpg",
+            "Date": "2020-10-03T14:00:09Z",
+            "Content": "Subtlety has long been a stranger to our politics. This is the age of rage, and there is little room for nuance. That is evident in the intense debate over the nomination of Amy Coney Barrett to the … [+6452 chars]"
+        },
+        {
+            "Title": "Pence ordered borders closed after CDC experts refused - Associated Press",
+            "Source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "Bias": -1.2,
+            "Author": "Jason Dearen",
+            "Description": "NEW YORK (AP) — Vice President Mike Pence in March directed the nation’s top disease control agency to use its emergency powers to effectively seal the U.S. borders, overruling the agency’s...",
+            "URL": "https://apnews.com/article/virus-outbreak-pandemics-public-health-new-york-health-4ef0c6c5263815a26f8aa17f6ea490ae",
+            "LinkToImage": "https://storage.googleapis.com/afs-prod/media/103a4274bcce48099ba7cfa59c747274/3000.jpeg",
+            "Date": "2020-10-03T13:35:39Z",
+            "Content": "NEW YORK (AP) Vice President Mike Pence in March directed the nations top disease control agency to use its emergency powers to effectively seal the U.S. borders, overruling the agencys scientists wh… [+8614 chars]"
+        },
+        {
+            "Title": "Nobel Prizes and COVID-19: Slow, basic science may pay off - Associated Press",
+            "Source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "Bias": -1.2,
+            "Author": "Seth Borenstein",
+            "Description": "While the world wants flashy quick fixes for everything, especially massive threats like the coronavirus and global warming, next week's Nobel Prizes remind us that in science, slow and steady...",
+            "URL": "https://apnews.com/article/virus-outbreak-climate-climate-change-archive-1616db15a70490b9bd800564e1d9e8b9",
+            "LinkToImage": "https://storage.googleapis.com/afs-prod/media/36b1f974e0b84789814bde8c900f2318/2694.jpeg",
+            "Date": "2020-10-03T13:34:17Z",
+            "Content": "While the world wants flashy quick fixes for everything, especially massive threats like the coronavirus and global warming, next weeks Nobel Prizes remind us that in science, slow and steady pays of… [+5624 chars]"
+        },
+        {
+            "Title": "President Trump's COVID-19 diagnosis must prompt a turning point in US response",
+            "Source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "Bias": -1.44,
+            "Author": "Dr. Zahir Kanjee, opinion contributor",
+            "Description": "To some, the president's infection was unexpected, but many in the medical community are much less surprised. COVID can be spread even with asymptomatic people, making it extremely dangerous.",
+            "URL": "https://thehill.com/opinion/healthcare/519450-president-trumps-covid-19-diagnosis-must-prompt-a-turning-point-in-us",
+            "LinkToImage": "https://thehill.com/sites/default/files/trumpdonald2_1012020_gettyimages.jpg",
+            "Date": "2020-10-03T13:30:06Z",
+            "Content": "News of President Donald TrumpDonald John TrumpTrump campaign manager tests positive for COVID-19Trump given Remdesivir as treatment for COVID-19 infectionICE launching billboard campaign highlightin… [+3563 chars]"
+        },
+        {
+            "Title": "Ron Johnson's 'Big Idea': Don't stop investigating Trump-Russia probe 'until we have uncovered the truth'",
+            "Source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "Bias": 22.23,
+            "Author": "Brooke Singman",
+            "Description": "The Big Idea is a series that asks top lawmakers and figures to discuss their moonshot – what’s the one proposal, if politics and polls and even price tag were not an issue, they’d implement to change the country for the better?",
+            "URL": "https://www.foxnews.com/politics/ron-johnsons-big-idea-continue-investigating-trump-russia-probe-until-we-have-uncovered-the-truth",
+            "LinkToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1ebeb692-55bf-4681-a5f6-46393ce9710a/27371111-9964-4a7c-adbf-8869e1bd7094/1280x720/match/image.jpg",
+            "Date": "2020-10-03T11:51:31Z",
+            "Content": "The Big Idea is a series that asks top lawmakers and figures to discuss their moonshot – what’s the one proposal, if politics and polls and even price tag were not an issue, they’d implement to chang… [+10753 chars]"
+        },
+        {
+            "Title": "Israeli navy prepares for arrival of new upgraded warships",
+            "Source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "Bias": -3.64,
+            "Author": "ARIEL SCHALIT Associated Press",
+            "Description": "After a coronavirus-related delay, Israel’s navy is preparing for the long-awaited arrival of its next generation of missile boats",
+            "URL": "https://abcnews.go.com/International/wireStory/israeli-navy-prepares-arrival-upgraded-warships-73402917",
+            "LinkToImage": "https://s.abcnews.com/images/International/WireAP_7c62ae42cbb048d0bfd03b6304670e1c_16x9_992.jpg",
+            "Date": "2020-10-03T11:03:07Z",
+            "Content": "ABOARD THE INS LAHAV -- EMBARGOED to 1700 GMT Saturday (8 p.m. Jerusalem, 7 p.m. Cairo)\r\nAfter a coronavirus-related delay, Israels navy is preparing for the long-awaited arrival of its next generati… [+3873 chars]"
+        },
+        {
+            "Title": "Israeli navy prepares for arrival of new upgraded warships",
+            "Source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "Bias": -1.2,
+            "Author": "Ariel Schalit",
+            "Description": "ABOARD THE INS LAHAV (AP) — EMBARGOED to 1700 GMT Saturday (8 p.m. Jerusalem, 7 p.m. Cairo) After a coronavirus-related delay, Israel’s navy is preparing for the long-awaited arrival of its...",
+            "URL": "https://apnews.com/d7ce5b5073143e913cd096c36f8e98a1",
+            "LinkToImage": "https://storage.googleapis.com/afs-prod/media/7c62ae42cbb048d0bfd03b6304670e1c/3000.jpeg",
+            "Date": "2020-10-03T11:00:58Z",
+            "Content": "ABOARD THE INS LAHAV (AP) EMBARGOED to 1700 GMT Saturday (8 p.m. Jerusalem, 7 p.m. Cairo)\r\nAfter a coronavirus-related delay, Israels navy is preparing for the long-awaited arrival of its next genera… [+3880 chars]"
+        },
+        {
+            "Title": "Madrid starts partial virus lockdown amid political scuffle",
+            "Source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "Bias": -3.64,
+            "Author": "IAIN SULLIVAN and JOSEPH WILSON Associated Press",
+            "Description": "Madrid has started its first day under a partial lockdown with police controlling travel in and out of the Spanish capital",
+            "URL": "https://abcnews.go.com/Health/wireStory/madrid-starts-partial-virus-lockdown-amid-political-scuffle-73402777",
+            "LinkToImage": "https://s.abcnews.com/images/Health/WireAP_e109c39a25994f308ba72a06cbdce7d8_16x9_992.jpg",
+            "Date": "2020-10-03T10:07:56Z",
+            "Content": "MADRID -- Madrid awoke Saturday to its first day under a partial lockdown, with police controlling travel in and out of the Spanish capital that has become Europe's biggest hot spot for the second wa… [+3229 chars]"
+        },
+        {
+            "Title": "Madrid starts partial virus lockdown amid political scuffle",
+            "Source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "Bias": -1.2,
+            "Author": "Iain Sullivan",
+            "Description": "MADRID (AP) — Madrid awoke Saturday to its first day under a partial lockdown, with police controlling travel in and out of the Spanish capital that has become Europe's biggest hot spot for the...",
+            "URL": "https://apnews.com/7ff19d0eadfd5702173755480424595a",
+            "LinkToImage": "https://storage.googleapis.com/afs-prod/media/e109c39a25994f308ba72a06cbdce7d8/2000.jpeg",
+            "Date": "2020-10-03T10:06:05Z",
+            "Content": "MADRID (AP) Madrid awoke Saturday to its first day under a partial lockdown, with police controlling travel in and out of the Spanish capital that has become Europes biggest hot spot for the second w… [+3240 chars]"
+        },
+        {
+            "Title": "Nobel Prizes and COVID-19: Slow, basic science may pay off",
+            "Source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "Bias": -3.64,
+            "Author": "SETH BORENSTEIN AP Science Writer",
+            "Description": "The Nobel Prizes show how slow basic science pays off, even though everyone wants quick fixes to global problems",
+            "URL": "https://abcnews.go.com/Technology/wireStory/nobel-prizes-covid-19-slow-basic-science-pay-73402058",
+            "LinkToImage": "null",
+            "Date": "2020-10-03T07:26:48Z",
+            "Content": "While the world wants flashy quick fixes for everything, especially massive threats like the coronavirus and global warming, next week's Nobel Prizes remind us that in science, slow and steady pays o… [+5622 chars]"
+        },
+        {
+            "Title": "Nobel Prizes and COVID-19: Slow, basic science may pay off",
+            "Source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "Bias": -1.2,
+            "Author": "Seth Borenstein",
+            "Description": "While the world wants flashy quick fixes for everything, especially massive threats like the coronavirus and global warming, next week's Nobel Prizes remind us that in science, slow and steady...",
+            "URL": "https://apnews.com/1616db15a70490b9bd800564e1d9e8b9",
+            "LinkToImage": "https://storage.googleapis.com/afs-prod/media/36b1f974e0b84789814bde8c900f2318/2694.jpeg",
+            "Date": "2020-10-03T07:26:22Z",
+            "Content": "While the world wants flashy quick fixes for everything, especially massive threats like the coronavirus and global warming, next weeks Nobel Prizes remind us that in science, slow and steady pays of… [+5624 chars]"
+        },
+        {
+            "Title": "Trump leads all Facebook ad spending in Arizona",
+            "Source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "Bias": -1.2,
+            "Author": "",
+            "Description": "PHOENIX (AP) — Republican President Donald Trump has spent more money on Facebook advertising targeting New Mexico users since July than any other candidate, campaign, or business, according to a New York University Tandon School of Engineering project that m…",
+            "URL": "https://apnews.com/2a6e90ced49fe37eba3571b5e31175c8",
+            "LinkToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/2/0f/20f3dcdd-0cb8-533c-9ec0-f5028795290c/5f77fb8c1866e.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize",
+            "Date": "2020-10-03T03:56:32Z",
+            "Content": "President Donald Trump leaves the White House to go to Walter Reed National Military Medical Center after he tested positive for COVID-19, Friday, Oct. 2, 2020, in Washington.\r\nAlex Brandon\r\nPHOENIX … [+1640 chars]"
+        }
+    ]
 }
