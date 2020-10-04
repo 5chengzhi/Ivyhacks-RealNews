@@ -1,0 +1,36 @@
+.main-article {
+    width: 27.5%;
+    height: 12rem;
+    border: 1.5px solid #D8D0EE;
+    border-radius: 0.25rem;
+    display: inline-block;
+    margin: 1rem 1.75rem;
+}
+
+.article-title{
+    font-size: 0.85rem;
+    font-weight: 400;
+    margin-bottom: 0.5rem;
+    padding: 0;
+    height: 1rem;
+    text-align: center;
+}
+
+.article-title a{
+    color: #fafafa;
+    text-decoration: none;
+}
+
+.article-title a:hover{
+    color: #c4c4c4;
+    text-decoration: none;
+    transition-duration: 0.5s;
+}
+
+.img-wrapper{
+    height: 65%;
+    width: 80%;
+    margin: 1rem auto;
+    border-radius: 0.25rem;
+    background-size: cover;
+}
