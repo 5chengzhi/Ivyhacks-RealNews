@@ -8,7 +8,7 @@ export default function Navbar() {
                 <p>testing</p>
             </div>
             <h1>
-                RealNews
+                Get The Facts
             </h1>
             <div className="side">
                 <p>testing</p>
